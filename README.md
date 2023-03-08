@@ -9,6 +9,7 @@ The init.lua file contains basic neovim settings such as indentation settings.
 
 ### plugins.lua
 This file contains the plugins I use. I am using packer.nvim to manage plugins.
+[packer.nvim](https://github.com/wbthomason/packer.nvim)
 
 - wbthomason/packer.nvim
 - ellisonleao/gruvbox.nvim
